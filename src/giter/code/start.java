@@ -3,7 +3,7 @@ package giter.code;
 public class start {
 	
 
-	private long lc;
+	private int lc;
 
 	
 	private double il;
