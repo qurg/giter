@@ -6,5 +6,7 @@ public class start {
 	
 	private double il;
 	
+	private int lm;
+	
 	
 }
